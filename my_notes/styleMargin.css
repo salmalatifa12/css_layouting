@@ -1,0 +1,28 @@
+ .satu{
+    width: 200px;
+    height: 200px;
+    background-color: lightseagreen;
+    
+    /* Margin : Area transparant disekitar kotak  */
+    /* menambahkan area/jarak disebelah kiri kotak */
+     margin-left: 100px; 
+    /* menambah jarak diatas */
+     margin-top: 30px; 
+    /* menambah jarak dibawah */
+     margin-bottom: 150px; 
+    /* menambah jarak dikanan */
+     margin-right: 50px; 
+    
+}
+
+.dua{
+    width:  100px;
+    height: 100px;
+    background-color: lightsalmon;
+}
+
+.tiga{
+    width: 50px;
+    height: 50px;
+    background-color: lightskyblue;
+}

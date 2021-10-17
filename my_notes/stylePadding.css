@@ -1,0 +1,15 @@
+div{
+    width: 200px; 
+    height: 200px;
+     background-color: coral;
+    margin: 20px auto;
+    /* padding biasanya digunakan untuk memberikan jarak antara sebuah kotak  dengan tulisan yg didalam pad */
+    /* padding-left: 50px;
+    padding-top: 10px;
+    */
+    padding: 50px;
+
+    /* ini sebagai BORDER */
+    /* border juga menambah ukuran kotaknya/elemen */
+    border: 5px double black;
+}
